@@ -12,6 +12,10 @@ follows:
    releases, and Linux kernel updates. They're also made to fix bugs and add
    features to the build infrastructure.
 
+## v1.29.1-electra.1
+
+Electra fork of upstream v1.29.1.
+
 ## v1.29.1
 
 This is a security/bug fix update.
@@ -843,4 +847,3 @@ to work around this but it takes longer to load the gadget interface.
 See
 [nerves_system_rpi3/CHANGELOG.md](https://github.com/nerves-project/nerves_system_rpi3/blob/master/CHANGELOG.md) for
 history before this was forked off of `nerves_system_rpi3`
-
